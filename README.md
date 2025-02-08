@@ -33,15 +33,15 @@ README.md        # This document
 ## **Usage**
 1. **Specify input and output file paths:**  
    - The scripts take input specified by the `datafile_PATH` variable.  
-   - Processed results are saved at the location specified by `desired_output_PATH`.  
+   - Processed results are saved at the location specified by `desired_output_PATH`.
    
 2. **Run the script:**  
-   - Ensure your `.csv` data files are inside the `data/` folder.  
+   - Ensure your `.csv` data files are inside a `data/` folder. `example_data/` is included.  
    - Modify `datafile_PATH` and `desired_output_PATH` as needed.  
    - Execute the script in Python.  
 
 3. **View the output:**  
-   - Processed results will be stored in **Excel (.xlsx) format** at the designated output path.  
+   - Processed results will be stored in **Excel (.xlsx) format** at the designated output path. `example_output/` is included.
 
 ## **Example (Python Script)**
 ```python
