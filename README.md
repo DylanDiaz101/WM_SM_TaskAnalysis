@@ -1,7 +1,7 @@
 # **Working Memory Secondary Memory (SM) Task Analysis**
 
 ## **Overview**
-These scripts compute **mean accuracy and total trial counts** for working memory performance in the **Secondary Memory (SM) tasks** developed by:
+These scripts compute **mean accuracy and total trial counts** for working memory performance in the **Secondary Memory (SM) tasks** (letter position and word-word) developed by:
 - Oliver Wilhelm (University of Ulm, Germany)  
 - Andrea Hildebrandt (Humboldt-Universität zu Berlin, Germany)  
 - Klaus Oberauer (University of Zurich, Switzerland)  
