@@ -1,0 +1,1 @@
+SM wordword block 1 and block 2 data both use the sm_wordword_task_analysis.py script
