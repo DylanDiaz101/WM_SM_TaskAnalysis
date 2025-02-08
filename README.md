@@ -19,10 +19,12 @@ For more details on the **Secondary Memory (SM) tasks**, refer to:
 
 ## **Repository Structure**
 ```
-📂 data/         # Sample participant data (Inquisit .csv files)
-📂 scripts/      # Python scripts for data processing
+📂 example_data/         # Sample participant data (Inquisit .csv files)
+📂 example_output/      # Sample output (.xlsx files)
 📂 readings/     # Relevant articles and study materials
-📂 results/      # Processed output files (if applicable)
+sm_letterpos_block1_analysis.py   # Script 1
+sm_letterpos_block2_analysis.py   # Script 2
+sm_wordword_task_analysis.py      # Script 3
 README.md        # This document
 ```
 
