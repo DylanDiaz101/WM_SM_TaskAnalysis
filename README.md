@@ -10,6 +10,7 @@ The tasks were adapted as a measure of **Long-Term Memory (LTM) retrieval** for 
 > **"The Psychometric Structure of Working Memory: An Analysis Utilizing Network Modeling"**  
 > Presented at the **65th Annual Meeting of the Psychonomic Society**  
 > **Principal Investigators:** Kevin P. Rosales & Jason F. Reimer (California State University, San Bernardino)
+(A copy of the poster is included in the `readings` folder.)
 
 ## **Reference**
 For more details on the **Secondary Memory (SM) tasks**, refer to:  
